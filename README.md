@@ -11,7 +11,6 @@ This was developed by me as a part of the Metis Summer Project 2024 (IITGN's Web
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
