@@ -23,7 +23,7 @@ This portfolio website is a curated collection of my graphic design. It serves a
 - **Portfolio Gallery:** Showcase of my best graphic design.
 - **About Me:** Section with a brief introduction and background information.
 - **Contact Section** Simple form to allow visitors to get in touch with me.
-- **Smooth Animations:** Modern CSS animations to enhance user experience.
+- **Smooth Animations:** Modern CSS and JavaScript animations to enhance user experience.
 
 ## Demo
 
