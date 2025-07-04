@@ -1,39 +1,52 @@
-# Graphic Design Portfolio Website
+# Bhavya Parmar – Graphic Design Portfolio
 
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio website, showcasing my work as a graphic designer.
-This was developed by me as a part of the Metis Summer Project 2024 (IITGN's Web & App Dev Club).
+Welcome to my personal portfolio website! This site showcases a curated collection of my work as a **graphic designer**, including past projects, creative explorations, and professional highlights. It serves as a visual résumé and creative space for anyone interested in my design journey.
+
+Developed by me as part of the **Metis Summer Project 2024** at **IIT Gandhinagar’s Web & App Dev Club**.
+
+---
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Overview](#overview)  
+- [Live Website](#live-website)  
+- [Technologies Used](#technologies-used)  
+- [Getting Started](#getting-started)  
+- [Contact](#contact)  
 
-## Introduction
+---
 
-This portfolio website is a curated collection of my graphic design. It serves as a visual resume where potential clients and employers can view my work, learn about my skills, and get in touch with me for collaborations.
+## Overview
 
-## Features
+This website is a reflection of my passion for visual storytelling and design. From branding and illustrations to UI graphics and poster design, the portfolio brings together my diverse creative projects in one place.
 
-- **Responsive Design:** Optimized for viewing on all devices, including desktops, tablets, and smartphones.
-- **Portfolio Gallery:** Showcase of my best graphic design.
-- **About Me:** Section with a brief introduction and background information.
-- **Contact Section** Simple form to allow visitors to get in touch with me.
-- **Smooth Animations:** Modern CSS and JavaScript animations to enhance user experience.
+Whether you're a recruiter, collaborator, or fellow designer—welcome, and I hope you find something that inspires you.
 
-## Demo
+---
 
-You can view a live demo of the portfolio website [here](https://github.com/bhavya-parmar/portfolio_website.git).
+## Live Website
+
+Check out the live version of the portfolio here:  
+🔗 [https://bhavya-parmar.github.io/portfolio_website](https://bhavya-parmar.github.io/portfolio_website/)
+
+---
 
 ## Technologies Used
 
-- **HTML5:** Structure of the website.
-- **CSS3:** Styling and layout.
-- **JavaScript:** Basic interactivity and dynamic content.
+- **HTML5** – Semantic markup to structure content  
+- **CSS3** – Custom styling and layout design  
+- **JavaScript** – Light interactivity and animation handling  
+
+---
+
+## Getting Started
+
+To view the site locally:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/bhavya-parmar/portfolio_website.git
+
 
 ## Installation
 
@@ -48,22 +61,15 @@ To run this project locally, follow these steps:
     cd portfolio_website
     ```
 3. **Open `index.html` in your preferred web browser.**
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
+   
+---
 
 ## Contact
 
-If you have any questions or would like to get in touch, feel free to contact me:
+If you have any questions or suggestions or would like to get in touch, feel free to contact me:
 
-- **Email:** 23110059@iitgn.ac.in
+- **Email:** bhavya.parmar@iitgn.ac.in
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhavya-parmar/)
+- **Behance:** [My Behance Portfolio](https://www.behance.net/bhavya-parmar)
 
-Thank you for visiting my portfolio website!
+Thank you for visiting my portfolio. I hope you enjoy exploring my work!
