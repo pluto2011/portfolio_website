@@ -540,8 +540,10 @@ article {
 }
 article .icon {
     cursor: default;
-    transform: translateY(-0.3125rem);
+    display: inline-block; /* ensures transform works */
+    transform: translateY(-0.9125rem); /* move up 5px */
 }
+
 
 article h3{
     color: #d2cdc1;
