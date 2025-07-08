@@ -540,6 +540,7 @@ article {
 }
 article .icon {
     cursor: default;
+    top: 10px;
 }
 
 article h3{
