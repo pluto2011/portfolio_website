@@ -764,10 +764,9 @@ footer p {
     display: flex;
     justify-content: center;
     margin-top: 0.7rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
     font-size: x-small;
 }
-
 
 /* ALL PROJECTS PAGE */
 
