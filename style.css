@@ -668,12 +668,11 @@ article h3{
 /* CONTACT */
 
 #contact {
-    height: 50vh;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 2rem;
+    padding-bottom: 2rem; /* Keeps a bit of space below contact */
 }
 
 .contact-info-upper-container {
@@ -715,7 +714,6 @@ article h3{
     fill: purple;
 }
 
-
 #contact .logo img {
     display: flex;
     margin-top: 1rem;
@@ -723,24 +721,27 @@ article h3{
     align-items: center;
     height: 65px;
     width: 105px;
- 
 }
 
 /* FOOTER */
 
-footer{
+footer {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 }
 
-footer .nav-links-container, .nav-links {
+footer nav {
+    padding: 0;
+}
+
+footer .nav-links-container,
+footer .nav-links {
     padding: 0;
     margin: auto;
-}
-footer nav{
-    padding: 0;
 }
 
 footer .nav-links-container2 {
@@ -752,7 +753,7 @@ footer .nav-links-container2 {
     margin-top: 0.5rem;
 }
 
-.nav-links-container2 .nav-links{
+.nav-links-container2 .nav-links {
     padding: 0;
     align-items: center;
     display: flex;
@@ -764,9 +765,9 @@ footer p {
     display: flex;
     justify-content: center;
     margin-top: 0.7rem;
-    padding-bottom: 0.5rem;
     font-size: x-small;
 }
+
 
 /* ALL PROJECTS PAGE */
 
