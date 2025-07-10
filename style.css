@@ -668,7 +668,7 @@ article h3{
 /* CONTACT */
 
 #contact {
-    height: 20vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     flex-direction: column;
