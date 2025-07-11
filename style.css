@@ -716,6 +716,16 @@ article h3{
 }
 
 
+#contact .logo img {
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+    width: 105px;
+ 
+}
+
 /* FOOTER */
 
 footer{
@@ -757,7 +767,6 @@ footer p {
     padding-bottom: 1.5rem;
     font-size: x-small;
 }
-
 
 /* ALL PROJECTS PAGE */
 
